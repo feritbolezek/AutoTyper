@@ -1,0 +1,10 @@
+C:\Users\ferit\source\repos\AutoTyper\AutoTyper\bin\Debug\AutoTyper.exe.config
+C:\Users\ferit\source\repos\AutoTyper\AutoTyper\bin\Debug\AutoTyper.exe
+C:\Users\ferit\source\repos\AutoTyper\AutoTyper\bin\Debug\AutoTyper.pdb
+C:\Users\ferit\source\repos\AutoTyper\AutoTyper\obj\Debug\AutoTyper.csprojAssemblyReference.cache
+C:\Users\ferit\source\repos\AutoTyper\AutoTyper\obj\Debug\AutoTyper.Form1.resources
+C:\Users\ferit\source\repos\AutoTyper\AutoTyper\obj\Debug\AutoTyper.Properties.Resources.resources
+C:\Users\ferit\source\repos\AutoTyper\AutoTyper\obj\Debug\AutoTyper.csproj.GenerateResource.cache
+C:\Users\ferit\source\repos\AutoTyper\AutoTyper\obj\Debug\AutoTyper.csproj.CoreCompileInputs.cache
+C:\Users\ferit\source\repos\AutoTyper\AutoTyper\obj\Debug\AutoTyper.exe
+C:\Users\ferit\source\repos\AutoTyper\AutoTyper\obj\Debug\AutoTyper.pdb
